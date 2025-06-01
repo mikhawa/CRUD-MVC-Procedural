@@ -1,0 +1,4 @@
+# configuration in production mode
+config-prod.php
+# PHPStrom
+.idea
